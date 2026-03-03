@@ -1,0 +1,6 @@
+nltk
+tensorflow
+numpy
+pandas
+scikeras
+pickle
